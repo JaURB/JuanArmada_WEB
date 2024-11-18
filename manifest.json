@@ -1,6 +1,6 @@
 {
-  "name": "Taxis en Málaga",
-  "short_name": "Taxis Málaga",
+  "name": "Taxi en Málaga",
+  "short_name": "Taxi Málaga",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
